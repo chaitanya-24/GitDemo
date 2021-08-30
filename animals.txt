@@ -1,1 +1,1 @@
-Horse, dog, cat, camel
+Horse, dog, cat, camel, tiger, lion
